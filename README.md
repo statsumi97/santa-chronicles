@@ -12,15 +12,15 @@ This site is where Santa Claus writes his blogs and readers can find them and co
 
 2. User will be able to direct to a page to see Santa Claus info as a blogger, interests, and any relevant information.
 
-3. Users will be able to add comments on blog posts/view comments from others.
+3. There will be a form that Santa will use to create a new post.
 
 ## Stretch Goals
 
-1. Have a search bar functionality to enable users to search for posts by keywords.
+1. Users will be able to add comments on blog posts/view comments from others.
 
-2. Add a favorite button.
+2. Have a search bar functionality to enable users to search for posts by keywords.
 
-3. Toggle light mode or dark mode.
+3. Add a favorite button.
 
 ## WireFrame
 
