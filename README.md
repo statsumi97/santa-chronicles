@@ -30,18 +30,20 @@ This site is where Santa Claus writes his blogs and readers can find them and co
 
 Our database has only one endpoint. it's "/posts". This is an example of data in this endpoint:
 
-{
-    "id": 1,
-    "date": "12-24-2023",
-    "title": "Weather forceast for Christmas Eve",
-    "article": "There's a blizzard in Chicago and high winds over the north east.    Otherwise clear skies. Will need to go slow in the blizzard. Ho ho ho!"
-    "comments": {
+<!-- language: lang-none -->
+    {
         "id": 1,
-        "date": 12-24-2023,
-        "name": "Frosty",
-        "comment": "Don't forget to bring a thermos with hot chocolate tonight!"
+        "date": "12-24-2023",
+        "title": "Weather forceast for Christmas Eve",
+        "body": "There's a blizzard in Chicago and high winds over the north east. Otherwise, clear skies. Will need to go slow in the blizzard. Ho ho ho!"
+        "comments": {
+            "id": 1,
+            "date": 12-24-2023,
+            "name": "Frosty",
+            "comment": "Don't forget to bring hot chocolate tonight!"
+        }
     }
-}
+
 
 
 
