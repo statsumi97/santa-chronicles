@@ -16,9 +16,9 @@ This site is where Santa Claus writes his blogs and readers can find them and co
 
 ## Stretch Goals
 
-1. Users will be able to add comments on blog posts/view comments from others.
+1. Have a search bar functionality to enable users to search for posts by keywords.
 
-2. Have a search bar functionality to enable users to search for posts by keywords.
+2. Users will be able to add comments on blog posts/view comments from others.
 
 3. Add a favorite button.
 
